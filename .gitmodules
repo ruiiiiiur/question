@@ -1,0 +1,27 @@
+[submodule "ucesrji/www/js"]
+	path = ucesrji/www/js
+	url = https://github.com/ruiiiiiur/cege0043-jsReference
+[submodule "ucesrji/www/css"]
+	path = ucesrji/www/css
+	url = https://github.com/ruiiiiiur/cege0043-cssReference
+[submodule "ucesrji/www/images"]
+	path = ucesrji/www/images
+	url = https://github.com/ruiiiiiur/cege0043-imagesReference
+[submodule "js"]
+	path = js
+	url = https://github.com/ruiiiiiur/cege0043-jsReference
+[submodule "css"]
+	path = css
+	url = https://github.com/ruiiiiiur/cege0043-cssReference
+[submodule "images"]
+	path = images
+	url = https://github.com/ruiiiiiur/cege0043-imagesReference
+[submodule "ucesrji/js"]
+	path = ucesrji/js
+	url = https://github.com/ruiiiiiur/cege0043-jsReference
+[submodule "ucesrji/css"]
+	path = ucesrji/css
+	url = https://github.com/ruiiiiiur/cege0043-cssReference
+[submodule "ucesrji/images"]
+	path = ucesrji/images
+	url = https://github.com/ruiiiiiur/cege0043-imagesReference
